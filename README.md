@@ -74,9 +74,7 @@ The construction process included:
 ### Halbach Array
 
 ---
-
-
----
+![alt text](image-2.png)
 
 ---
 
