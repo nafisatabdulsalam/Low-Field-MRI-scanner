@@ -42,6 +42,8 @@ The project integrates MRI hardware, embedded systems, robotics, automation, and
 
 ---
 
+![alt text](image.png)
+
 ## MRI Magnet Construction
 
 The low-field MRI system was built using a Halbach array configuration to generate a magnetic field inside the imaging volume.
