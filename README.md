@@ -369,3 +369,16 @@ Field_mapper_robot/
 
 └── images/
 ```
+
+References:
+
+1. SipanHovsep/Field_mapper_robot: Design of a modular, cost-effective field mapper robot. https://github.com/SipanHovsep/Field_mapper_robot.
+
+
+2. CAMERA-MRI. ERNIE: Educational Reconfigurable and Novel Imaging Equipment [Internet]. GitHub; 2026. Available from: https://github.com/CAMERA-MRI/IMAGINE/tree/main/ERNIE 
+
+
+3. Anazodo UC, Ng JJ, Ehiogu B, et al. A framework for advancing sustainable magnetic resonance imaging access in Africa. NMR in Biomedicine. 2023;36(3):e4846. doi:10.1002/nbm.4846
+
+
+4. Maureen N, Fernández-García M, Sahonero-Alvarez G, Hovsepian S, Lena B, Machtelinckx T, et al. A low-field MRI toolkit for hands-on MRI education: A pilot implementation at the 2025 ESMRMB Workshop [abstract]. Presented at: ISMRM 2026 Annual Meeting; 2026. Available from: http://echo.ismrm.org/p/ISMRM2026/469-02-006 
