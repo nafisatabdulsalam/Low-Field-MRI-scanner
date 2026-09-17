@@ -11,8 +11,7 @@ The system was designed to automate magnetic field measurements inside the MRI i
 The project integrates MRI hardware, embedded systems, robotics, automation, and data acquisition into a single experimental platform.
 
 ---
-![alt text](image-2.png)
-
+![alt text](image-7.png)
 ---
 
 ## System Components
@@ -66,11 +65,16 @@ The construction process included:
 5. Verifying the magnetic field using a gaussmeter.
 
 ---
+![alt text](image-6.png)
+---
+
+
+---
 
 ### Halbach Array
 
 ---
-![alt text](image-1.png)
+
 
 ---
 
@@ -94,9 +98,11 @@ The robotic platform automated the field-mapping process and improved measuremen
 
 Insert an image of the completed robot here.
 
-```markdown
+---
+
 ![alt text](image-6.png)
-```
+
+---
 
 ---
 
@@ -155,12 +161,6 @@ Driver VCC → 24 V positive terminal
 
 Driver GND → 24 V negative terminal
 ```
-
----
-
-### Wiring Diagram
-
-Insert a wiring diagram here.
 
 ---
 ![alt text](image-1.png)
@@ -272,15 +272,6 @@ x    y    z
 
 ---
 
-### Robot Path Visualization
-
-
----
-![alt text](image-2.png)
-
-![alt text](image-3.png)
-
----
 
 ## Data Collection
 
