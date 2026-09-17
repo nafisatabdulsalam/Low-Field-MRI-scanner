@@ -1,5 +1,7 @@
 # Low-Field MRI Field Mapping Robot
 
+# This project was accepted as a Late-breaking abstract for poster presentation at ESMRMB26
+
 ## Overview
 
 This project describes the construction of a low-field MRI field-mapping system that combines a permanent-magnet Halbach array with a three-axis robotic positioning platform.
