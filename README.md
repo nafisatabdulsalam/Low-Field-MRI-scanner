@@ -1,6 +1,6 @@
 # Low-Field MRI Field Mapping Robot
 
-# This project was accepted as a Late-breaking abstract for poster presentation at ESMRMB26
+# This project was accepted as a Late-breaking abstract for a poster presentation at ESMRMB26
 
 ## Overview
 
@@ -10,7 +10,8 @@ The system was designed to automate magnetic field measurements inside the MRI i
 
 The project integrates MRI hardware, embedded systems, robotics, automation, and data acquisition into a single experimental platform.
 
-![alt text](image-7.png)
+---
+![alt text](image-2.png)
 
 ---
 
@@ -68,9 +69,10 @@ The construction process included:
 
 ### Halbach Array
 
-```markdown
+---
 ![alt text](image-1.png)
-```
+
+---
 
 ---
 
@@ -160,9 +162,10 @@ Driver GND → 24 V negative terminal
 
 Insert a wiring diagram here.
 
-```markdown
-![alt text](image-4.png)
-```
+---
+![alt text](image-1.png)
+
+---
 
 ---
 
@@ -272,9 +275,9 @@ x    y    z
 ### Robot Path Visualization
 
 
-```markdown
+---
 ![alt text](image-2.png)
-```
+
 ![alt text](image-3.png)
 
 ---
